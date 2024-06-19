@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EBook</string>
+    <string name="text_bookList">Book List</string>
+    <string name="text_bookDetails">Book Details</string>
+    <string name="search_for_books">Search For Books...</string>
+    <string name="explore_thousand_of_books_in_go">Explore thousand of \nbooks in go</string>
+</resources>
